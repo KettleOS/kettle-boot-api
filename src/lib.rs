@@ -1,3 +1,3 @@
 #![no_std]
 
-mod data;
+pub mod vga;
